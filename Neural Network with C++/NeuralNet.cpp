@@ -37,7 +37,7 @@ int main(int argc, char *argv[])
 
 		// Collect the net's actual output results:
 		NNetwork.getResults(resultValues);
-		/*if (resultValues.back() > 0.5)
+		if (resultValues.back() > 0.5)
 		{
 			cout << "result is 1 with probability %" << resultValues.back()*100 << endl;
 			
@@ -45,13 +45,13 @@ int main(int argc, char *argv[])
 		else
 		{
 			cout << "result is 0 with probability %" << 100-abs(resultValues.back())*100 << endl;
-		}*/
-		cout << "Prediction is " << resultValues.back() << endl;
+		}
+		//cout << "Prediction is " << resultValues.back() << endl;
 
 		// Train the net what the outputs should have been:
 		trainData.getTargetOutputs(targetValues);
 		showVectorVals("Correct result:", targetValues);
-		cout << targetValues.size() << " /// " << topology.back() << endl;
+		//cout << targetValues.size() << " /// " << topology.back() << endl;
 		assert(targetValues.size() == topology.back());
 
 		NNetwork.backProp(targetValues);
