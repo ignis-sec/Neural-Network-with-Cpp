@@ -2,7 +2,11 @@ topology: 2 2 4 1
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -14,9 +18,15 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -30,144 +40,40 @@ out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 0.0 
+out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
-in: 0.0 1.0 
-out: 1.0
-in: 1.0 0.0 
-out: 1.0
-in: 0.0 1.0 
-out: 1.0
-in: 1.0 0.0 
-out: 1.0
-in: 0.0 0.0 
+=======
 out: 0.0
-in: 0.0 0.0 
-out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
-out: 1.0
-in: 1.0 1.0 
-out: 1.0
-in: 0.0 1.0 
-out: 1.0
-in: 0.0 1.0 
-out: 1.0
-in: 1.0 1.0 
-out: 1.0
-in: 1.0 0.0 
-out: 1.0
-in: 0.0 1.0 
-out: 1.0
-in: 1.0 1.0 
-out: 1.0
-in: 0.0 1.0 
-out: 1.0
-in: 1.0 0.0 
-out: 1.0
-in: 1.0 0.0 
-out: 1.0
-in: 0.0 1.0 
-out: 1.0
-in: 1.0 0.0 
-out: 1.0
-in: 0.0 1.0 
-out: 1.0
-in: 0.0 1.0 
-out: 1.0
-in: 1.0 1.0 
-out: 1.0
-in: 1.0 1.0 
-out: 1.0
-in: 0.0 1.0 
-out: 1.0
-in: 0.0 1.0 
-out: 1.0
-in: 1.0 1.0 
-out: 1.0
-in: 0.0 0.0 
-out: 0.0
-in: 1.0 1.0 
-out: 1.0
-in: 0.0 1.0 
-out: 1.0
-in: 1.0 0.0 
-out: 1.0
-in: 1.0 0.0 
-out: 1.0
-in: 1.0 0.0 
-out: 1.0
-in: 0.0 0.0 
-out: 0.0
-in: 0.0 0.0 
-out: 0.0
-in: 1.0 0.0 
-out: 1.0
-in: 0.0 1.0 
-out: 1.0
-in: 0.0 0.0 
-out: 0.0
-in: 0.0 1.0 
-out: 1.0
-in: 1.0 1.0 
-out: 1.0
-in: 1.0 0.0 
-out: 1.0
-in: 1.0 0.0 
-out: 1.0
-in: 0.0 0.0 
-out: 0.0
-in: 1.0 0.0 
-out: 1.0
-in: 0.0 1.0 
-out: 1.0
-in: 0.0 1.0 
-out: 1.0
-in: 0.0 1.0 
-out: 1.0
-in: 0.0 1.0 
-out: 1.0
-in: 0.0 1.0 
-out: 1.0
-in: 0.0 0.0 
-out: 0.0
-in: 1.0 1.0 
-out: 1.0
-in: 1.0 1.0 
-out: 1.0
-in: 1.0 1.0 
-out: 1.0
-in: 0.0 0.0 
-out: 0.0
-in: 1.0 0.0 
-out: 1.0
-in: 0.0 0.0 
-out: 0.0
-in: 0.0 1.0 
-out: 1.0
-in: 1.0 1.0 
-out: 1.0
-in: 0.0 0.0 
-out: 0.0
-in: 1.0 0.0 
-out: 1.0
-in: 1.0 0.0 
-out: 1.0
-in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
@@ -177,13 +83,180 @@ in: 1.0 0.0
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
-in: 1.0 1.0 
+in: 0.0 0.0 
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+<<<<<<< HEAD
+out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
+in: 0.0 1.0 
+out: 1.0
+in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
+<<<<<<< HEAD
+out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
+in: 1.0 0.0 
+out: 1.0
+in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
+<<<<<<< HEAD
+out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
+out: 1.0
+in: 0.0 1.0 
+out: 1.0
+in: 1.0 0.0 
+out: 1.0
+in: 0.0 1.0 
+out: 1.0
+in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
+<<<<<<< HEAD
+out: 1.0
+in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
+in: 0.0 1.0 
+out: 1.0
+in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
+<<<<<<< HEAD
+out: 1.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
+in: 0.0 1.0 
+out: 1.0
+in: 1.0 0.0 
+out: 1.0
+in: 1.0 0.0 
+out: 1.0
+in: 1.0 0.0 
+out: 1.0
+in: 0.0 0.0 
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 0.0 
+out: 1.0
+in: 0.0 1.0 
+out: 1.0
+in: 0.0 0.0 
+out: 0.0
+in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
+<<<<<<< HEAD
+out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
+in: 1.0 0.0 
+out: 1.0
+in: 1.0 0.0 
+out: 1.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 0.0 
+out: 1.0
+in: 0.0 1.0 
+out: 1.0
+in: 0.0 1.0 
+out: 1.0
+in: 0.0 1.0 
+out: 1.0
+in: 0.0 1.0 
+out: 1.0
+in: 0.0 1.0 
+out: 1.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+<<<<<<< HEAD
+out: 1.0
+in: 1.0 1.0 
+out: 1.0
+in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 0.0 
+out: 1.0
+in: 0.0 0.0 
+out: 0.0
+in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
+<<<<<<< HEAD
+out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 0.0 
+out: 1.0
+in: 1.0 0.0 
+out: 1.0
+in: 1.0 0.0 
+out: 1.0
+in: 1.0 0.0 
+out: 1.0
+in: 0.0 1.0 
+out: 1.0
+in: 1.0 0.0 
+out: 1.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+<<<<<<< HEAD
+out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
+in: 0.0 1.0 
+out: 1.0
+in: 1.0 0.0 
+out: 1.0
+in: 1.0 0.0 
+<<<<<<< HEAD
 aout: 1.0
 in: 1.0 1.0 
 out: 1.0
@@ -203,6 +276,27 @@ in: 1.0 1.0
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -222,7 +316,11 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -250,17 +348,29 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -272,7 +382,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -286,23 +400,41 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 0.0 
+out: 1.0
 in: 1.0 1.0 
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -320,7 +452,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
@@ -330,9 +466,15 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
@@ -352,11 +494,19 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -366,7 +516,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -374,6 +528,7 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
@@ -383,6 +538,17 @@ in: 0.0 0.0
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -402,7 +568,11 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -410,9 +580,15 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -432,7 +608,11 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
@@ -440,7 +620,11 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
@@ -458,23 +642,39 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
@@ -482,17 +682,29 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -500,12 +712,17 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
@@ -522,33 +739,74 @@ out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 0.0 
+out: 1.0
+in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
 in: 1.0 1.0 
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
 in: 1.0 1.0 
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -564,7 +822,11 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -572,19 +834,33 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -592,6 +868,7 @@ out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
@@ -605,12 +882,31 @@ in: 0.0 0.0
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 0.0 
+out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -618,9 +914,15 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -630,29 +932,49 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
@@ -682,7 +1004,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
@@ -692,6 +1018,7 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
@@ -699,6 +1026,15 @@ in: 1.0 1.0
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -714,7 +1050,11 @@ out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -724,9 +1064,15 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -740,7 +1086,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -752,21 +1102,37 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
@@ -776,7 +1142,11 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
@@ -786,7 +1156,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -796,9 +1170,15 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -814,7 +1194,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -832,7 +1216,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -852,9 +1240,15 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -864,11 +1258,19 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -878,6 +1280,7 @@ out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
@@ -888,15 +1291,34 @@ out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 0.0 
+out: 1.0
+in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
 in: 1.0 1.0 
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -908,6 +1330,7 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
@@ -924,11 +1347,34 @@ out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 0.0 
+out: 1.0
+in: 1.0 1.0 
+out: 1.0
+in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
 in: 1.0 1.0 
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
 in: 1.0 1.0 
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -944,7 +1390,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
@@ -954,7 +1404,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
@@ -976,21 +1430,37 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -1020,7 +1490,11 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -1028,13 +1502,21 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
@@ -1044,29 +1526,49 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 0.0 
+out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -1076,13 +1578,21 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -1096,9 +1606,15 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -1114,7 +1630,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
@@ -1122,7 +1642,11 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
@@ -1134,7 +1658,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -1142,19 +1670,33 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -1176,13 +1718,21 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -1190,7 +1740,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -1200,19 +1754,33 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -1220,7 +1788,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -1232,11 +1804,19 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -1244,19 +1824,33 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -1264,9 +1858,15 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -1278,7 +1878,11 @@ out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
@@ -1286,7 +1890,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -1298,7 +1906,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
@@ -1314,7 +1926,11 @@ out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -1334,7 +1950,11 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -1342,7 +1962,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -1370,7 +1994,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
@@ -1378,11 +2006,19 @@ out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -1398,7 +2034,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -1406,13 +2046,21 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -1426,11 +2074,19 @@ out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -1440,6 +2096,7 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
@@ -1447,18 +2104,37 @@ in: 1.0 1.0
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 0.0 
+out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 0.0 
+out: 1.0
+in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
 in: 1.0 1.0 
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
@@ -1468,7 +2144,11 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -1484,7 +2164,11 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
@@ -1492,15 +2176,25 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -1510,25 +2204,43 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -1538,7 +2250,11 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -1546,7 +2262,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -1554,17 +2274,29 @@ out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -1580,7 +2312,11 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
@@ -1592,7 +2328,11 @@ out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -1606,7 +2346,11 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -1616,7 +2360,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
@@ -1626,13 +2374,21 @@ out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -1644,6 +2400,7 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
@@ -1658,9 +2415,28 @@ out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 1.0 0.0 
+out: 1.0
+in: 1.0 1.0 
 out: 0.0
+in: 1.0 0.0 
+out: 1.0
 in: 1.0 1.0 
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -1674,7 +2450,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
@@ -1690,13 +2470,23 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -1714,9 +2504,15 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -1726,11 +2522,19 @@ out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
@@ -1742,6 +2546,7 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
@@ -1767,12 +2572,45 @@ in: 1.0 1.0
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 1.0
+in: 0.0 0.0 
+out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
 in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
 out: 0.0
+in: 0.0 1.0 
+out: 1.0
 in: 1.0 1.0 
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
@@ -1788,7 +2626,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
@@ -1802,7 +2644,11 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -1816,23 +2662,39 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
@@ -1848,29 +2710,51 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
 in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
 in: 1.0 1.0 
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -1880,12 +2764,17 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
@@ -1894,9 +2783,22 @@ out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 0.0 
+out: 1.0
+in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
@@ -1920,11 +2822,19 @@ out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -1934,7 +2844,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -1944,11 +2858,19 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -1970,7 +2892,11 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -1978,7 +2904,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -1986,7 +2916,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -1998,7 +2932,11 @@ out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
@@ -2010,7 +2948,11 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -2028,20 +2970,31 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
@@ -2049,22 +3002,45 @@ in: 1.0 1.0
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
+in: 1.0 1.0 
+out: 1.0
+in: 0.0 1.0 
+out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -2074,7 +3050,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -2084,7 +3064,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
@@ -2094,9 +3078,15 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
@@ -2104,6 +3094,7 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
@@ -2111,6 +3102,15 @@ in: 0.0 0.0
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
@@ -2124,11 +3124,19 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -2140,9 +3148,15 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -2150,7 +3164,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
@@ -2168,7 +3186,11 @@ out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
@@ -2182,11 +3204,19 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
@@ -2198,7 +3228,11 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -2206,6 +3240,7 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
@@ -2224,13 +3259,38 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
-out: 1.0
-in: 0.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 0.0 
+out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
+in: 0.0 1.0 
+out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -2240,7 +3300,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -2256,7 +3320,11 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -2264,11 +3332,19 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -2282,6 +3358,7 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
@@ -2289,6 +3366,15 @@ in: 1.0 1.0
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -2298,9 +3384,15 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -2308,7 +3400,11 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -2328,19 +3424,33 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
@@ -2354,15 +3464,25 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -2382,7 +3502,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -2390,7 +3514,11 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -2404,7 +3532,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -2424,23 +3556,39 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -2450,7 +3598,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -2470,21 +3622,37 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 0.0 
+out: 1.0
+in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
 in: 1.0 1.0 
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
@@ -2500,7 +3668,11 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -2514,17 +3686,29 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -2532,19 +3716,31 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -2572,7 +3768,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -2590,7 +3790,11 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -2598,7 +3802,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -2606,11 +3814,19 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 0.0 
+out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -2624,17 +3840,29 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -2646,7 +3874,11 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -2658,13 +3890,21 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -2672,17 +3912,29 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 0.0 
+out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -2690,13 +3942,21 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
@@ -2712,7 +3972,11 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -2746,7 +4010,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
@@ -2764,11 +4032,19 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -2780,9 +4056,15 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
@@ -2800,7 +4082,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -2820,7 +4106,11 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
@@ -2830,7 +4120,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -2848,15 +4142,27 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
 in: 1.0 1.0 
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -2866,7 +4172,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -2878,7 +4188,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -2886,7 +4200,11 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -2896,21 +4214,35 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -2918,11 +4250,19 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -2942,9 +4282,15 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -2954,6 +4300,7 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
@@ -2964,9 +4311,24 @@ out: 0.0
 in: 1.0 1.0 
 out: 1.0
 in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
 in: 1.0 1.0 
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
@@ -2974,12 +4336,17 @@ out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
@@ -2990,15 +4357,36 @@ out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -3008,15 +4396,25 @@ out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
@@ -3030,11 +4428,19 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -3044,7 +4450,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
@@ -3052,6 +4462,7 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
@@ -3060,7 +4471,18 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -3072,6 +4494,7 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
@@ -3079,6 +4502,15 @@ in: 0.0 0.0
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
@@ -3088,11 +4520,19 @@ out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -3102,11 +4542,19 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -3114,6 +4562,7 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
@@ -3121,28 +4570,55 @@ in: 1.0 0.0
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 0.0 
+out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 0.0 
+out: 1.0
+in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+in: 1.0 0.0 
+out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -3150,12 +4626,15 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
@@ -3164,15 +4643,36 @@ out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
@@ -3182,7 +4682,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -3196,11 +4700,19 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
@@ -3214,16 +4726,25 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
@@ -3231,6 +4752,15 @@ in: 1.0 1.0
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -3258,6 +4788,7 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
@@ -3265,6 +4796,15 @@ in: 1.0 0.0
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 0.0 
+out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -3292,19 +4832,31 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -3316,7 +4868,11 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
@@ -3334,7 +4890,11 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
@@ -3366,13 +4926,23 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
@@ -3392,11 +4962,19 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -3422,19 +5000,33 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
@@ -3450,6 +5042,7 @@ out: 0.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
@@ -3461,6 +5054,19 @@ in: 0.0 0.0
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -3472,6 +5078,7 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
@@ -3481,6 +5088,17 @@ in: 0.0 0.0
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
@@ -3488,6 +5106,7 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
@@ -3495,11 +5114,21 @@ in: 1.0 1.0
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
@@ -3516,23 +5145,56 @@ out: 0.0
 in: 1.0 1.0 
 out: 1.0
 in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
 out: 0.0
+in: 1.0 0.0 
+out: 1.0
 in: 1.0 1.0 
+out: 0.0
+in: 1.0 0.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 0.0 1.0 
+out: 1.0
+in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
 in: 1.0 1.0 
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -3548,7 +5210,11 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -3560,7 +5226,11 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
@@ -3574,9 +5244,15 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
@@ -3588,7 +5264,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
@@ -3600,7 +5280,11 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
@@ -3610,13 +5294,21 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 1.0 
@@ -3624,20 +5316,31 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
@@ -3645,6 +5348,15 @@ in: 0.0 0.0
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
@@ -3660,7 +5372,11 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -3676,6 +5392,7 @@ out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
@@ -3683,6 +5400,15 @@ in: 1.0 1.0
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 0.0 
+out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 1.0 
@@ -3696,7 +5422,11 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -3712,9 +5442,15 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -3726,11 +5462,19 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -3748,7 +5492,11 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -3756,13 +5504,21 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -3786,7 +5542,11 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -3804,7 +5564,11 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -3820,31 +5584,51 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 0.0 
@@ -3858,19 +5642,33 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
@@ -3878,29 +5676,49 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -3908,11 +5726,19 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
 out: 1.0
+=======
+out: 0.0
+in: 0.0 0.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 0.0 
@@ -3930,17 +5756,29 @@ out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 0.0 0.0 
@@ -3952,7 +5790,11 @@ out: 0.0
 in: 0.0 0.0 
 out: 0.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 1.0 
 out: 1.0
 in: 0.0 0.0 
@@ -3968,7 +5810,11 @@ out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
+=======
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0
 in: 0.0 1.0 
@@ -3982,22 +5828,40 @@ out: 0.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 0.0 
 out: 1.0
 in: 1.0 1.0 
+<<<<<<< HEAD
 out: 1.0
 in: 0.0 1.0 
 out: 1.0
 in: 1.0 1.0 
+out: 1.0
+=======
+out: 0.0
+in: 0.0 1.0 
 out: 1.0
+in: 1.0 1.0 
+out: 0.0
+>>>>>>> parent of 9c209aa... More testing and tool to generate data
 in: 0.0 0.0 
 out: 0.0

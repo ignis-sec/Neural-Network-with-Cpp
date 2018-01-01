@@ -123,9 +123,9 @@ class Net
 {
 public:
 	Net(const std::vector<unsigned int> &topology);
-	void feedForward(const std::vector<double> &inputValues);
-	void backProp(const std::vector<double> &targetValues);
-	void getResults(std::vector<double> &resultValues) const;
+	void feedForward(const std::vector<double> &inputVals);
+	void backProp(const std::vector<double> &targetVals);
+	void getResults(std::vector<double> &resultVals) const;
 	double getRecentAverageError(void) const { return m_recentAverageError; }
 
 private:
@@ -139,17 +139,17 @@ private:
 double Net::m_recentAverageSmoothingFactor = 100.0; // Number of training samples to average over
 
 
-void Net::getResults(std::vector<double> &resultValues) const
+void Net::getResults(std::vector<double> &resultVals) const
 {
-	resultValues.clear();
+	resultVals.clear();
 
 	for (unsigned int n = 0; n < m_layers.back().size() - 1; ++n)
 	{
-		resultValues.push_back(m_layers.back()[n].getOutputVal());
+		resultVals.push_back(m_layers.back()[n].getOutputVal());
 	}
 }
 
-void Net::backProp(const std::vector<double> &targetValues)
+void Net::backProp(const std::vector<double> &targetVals)
 {
 	// RMS
 
@@ -158,7 +158,7 @@ void Net::backProp(const std::vector<double> &targetValues)
 
 	for (unsigned int n = 0; n < outputLayer.size() - 1; ++n)
 	{
-		double delta = targetValues[n] - outputLayer[n].getOutputVal();
+		double delta = targetVals[n] - outputLayer[n].getOutputVal();
 		m_error += delta * delta;
 	}
 	m_error /= outputLayer.size() - 1; // get average error squared
@@ -171,7 +171,7 @@ void Net::backProp(const std::vector<double> &targetValues)
 
 	for (unsigned int n = 0; n < outputLayer.size() - 1; ++n)
 	{
-		outputLayer[n].calcOutputGradients(targetValues[n]);
+		outputLayer[n].calcOutputGradients(targetVals[n]);
 	}
 
 	// Calculate hidden layer gradients
@@ -197,13 +197,13 @@ void Net::backProp(const std::vector<double> &targetValues)
 	}
 }
 
-void Net::feedForward(const std::vector<double> &inputValues)
+void Net::feedForward(const std::vector<double> &inputVals)
 {
-	assert(inputValues.size() == m_layers[0].size() - 1);
+	assert(inputVals.size() == m_layers[0].size() - 1);
 
 	// Assign (latch) the input values into the input neurons
-	for (unsigned int i = 0; i < inputValues.size(); ++i) {
-		m_layers[0][i].setOutputVal(inputValues[i]);
+	for (unsigned int i = 0; i < inputVals.size(); ++i) {
+		m_layers[0][i].setOutputVal(inputVals[i]);
 	}
 
 	// forward propagate
